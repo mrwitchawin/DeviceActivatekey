@@ -40,6 +40,14 @@
         "key": "mykey-Thawatchai",
         "expirydate": "29-08-2025",
         "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "e96e45c1c816c75f",
+        "key": "mykey-tiraphut",
+        "expirydate": "29-08-2025",
+        "Allowoffline": false
     }
 
 ]
