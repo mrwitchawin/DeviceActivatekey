@@ -56,6 +56,22 @@
         "key": "mykey-PANUPONG",
         "expirydate": "29-08-2025",
         "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "902aac677cefcb9d",
+        "key": "mykey-Phatchara",
+        "expirydate": "29-08-2025",
+        "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "4490c4e3df734d66",
+        "key": "mykey-PANUPONG",
+        "expirydate": "29-08-2025",
+        "Allowoffline": false
     }
 
 ]
