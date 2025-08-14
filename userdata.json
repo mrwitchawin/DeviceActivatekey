@@ -96,6 +96,14 @@
         "key": "mykey-sonsin",
         "expirydate": "29-08-2025",
         "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "79724b98725c6f2a",
+        "key": "mykey-Warodom",
+        "expirydate": "29-08-2025",
+        "Allowoffline": false
     }
 
 ]
