@@ -146,6 +146,14 @@
         "key": "mykey-Thanakorn",
         "expirydate": "21-08-2025",
         "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "a797903b2a202a9e",
+        "key": "mykey-Rachata",
+        "expirydate": "21-08-2025",
+        "Allowoffline": false
     }
 
 ]
