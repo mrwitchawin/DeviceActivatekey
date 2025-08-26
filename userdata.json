@@ -276,6 +276,14 @@
         "key": "mykey-Kritsada",
         "expirydate": "2-09-2025",
         "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "8e4a02da3e009772",
+        "key": "mykey-bolt",
+        "expirydate": "2-09-2025",
+        "Allowoffline": false
     }
 
 
