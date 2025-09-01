@@ -332,6 +332,14 @@
         "key": "mykey-Banditsakun",
         "expirydate": "9-09-2099",
         "Allowoffline": false
+    },
+    
+    {
+
+        "device_id": "c916aa621284a175",
+        "key": "mykey-som",
+        "expirydate": "9-09-2099",
+        "Allowoffline": false
     }
 
 
