@@ -6,9 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
+        "device_id": "์0d3f48f163f704ec",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "14-10-2025",
         "Allowoffline": false
     
         
@@ -409,13 +409,7 @@
         "Allowoffline": false
     },
     
-    {
-
-        "device_id": "0d3f48f163f704ec",
-        "key": "key-keattisak​",
-        "expirydate": "14-10-2025",
-        "Allowoffline": false
-    }
+    
 
 
 ]
