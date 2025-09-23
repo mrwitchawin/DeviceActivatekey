@@ -370,14 +370,7 @@
         "key": "mykey-Kanit",
         "expirydate": "9-09-2099",
         "Allowoffline": false
-    },
     
-    {
-
-        "device_id": "cf1040a47ad335bf",
-        "key": "mykey-Narupong",
-        "expirydate": "30-09-2099",
-        "Allowoffline": false
     },
     
     {
