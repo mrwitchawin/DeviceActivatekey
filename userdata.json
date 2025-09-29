@@ -451,6 +451,12 @@
         "key": "mykey-sutichai",
         "expirydate": "18-10-2099",
         "Allowoffline": false
+    },    
+    {
+        "device_id": "c916aa621284a175",
+        "key": "mykey-sommz",
+        "expirydate": "18-10-2099",
+        "Allowoffline": false
     },
     
 
