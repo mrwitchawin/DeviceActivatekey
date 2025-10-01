@@ -457,6 +457,12 @@
         "key": "mykey-sommz",
         "expirydate": "18-10-2099",
         "Allowoffline": false
+    },    
+    {
+        "device_id": "be42add19a85ffe9",
+        "key": "mykey-thanyakon",
+        "expirydate": "18-10-2099",
+        "Allowoffline": false
     },
     
 
