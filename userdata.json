@@ -463,6 +463,12 @@
         "key": "mykey-thanyakon",
         "expirydate": "18-10-2099",
         "Allowoffline": false
+    },    
+    {
+        "device_id": "0e699f02241e7f7e",
+        "key": "mykey-AnyaDad",
+        "expirydate": "18-10-2099",
+        "Allowoffline": false
     },
     
 
