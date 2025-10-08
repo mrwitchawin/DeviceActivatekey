@@ -469,6 +469,12 @@
         "key": "mykey-AnyaDad",
         "expirydate": "18-10-2099",
         "Allowoffline": false
+    },    
+    {
+        "device_id": "0a6d021fd9786698",
+        "key": "mykey-Ayuwat",
+        "expirydate": "18-10-2099",
+        "Allowoffline": false
     },
     
 
