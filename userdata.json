@@ -489,7 +489,7 @@
         "Allowoffline": false
     },    
     {
-        "device_id": 70b0e4cb40f5366c",
+        "device_id":"70b0e4cb40f5366c",
         "key": "mykey-zaddgghh",
         "expirydate": "18-10-2099",
         "Allowoffline": false
