@@ -478,12 +478,18 @@
     },    
     {
         "device_id": "4a8637a1aba641f9",
-        "key": "mykey-Anuwat",
+        "key": "mykey-,zzlazadd",
         "expirydate": "18-10-2099",
         "Allowoffline": false
     },    
     {
         "device_id": "e96e45c1c816c75f",
+        "key": "mykey-Tiraphut",
+        "expirydate": "18-10-2099",
+        "Allowoffline": false
+    },    
+    {
+        "device_id": 70b0e4cb40f5366c",
         "key": "mykey-Tiraphut",
         "expirydate": "18-10-2099",
         "Allowoffline": false
