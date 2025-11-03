@@ -493,6 +493,12 @@
         "key": "mykey-zaddgghh",
         "expirydate": "18-10-2099",
         "Allowoffline": false
+    },    
+    {
+        "device_id":"134943794fdcb755",
+        "key": "mykey-00000",
+        "expirydate": "18-11-2025",
+        "Allowoffline": false
     },
     
 
